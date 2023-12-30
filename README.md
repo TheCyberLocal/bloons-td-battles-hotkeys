@@ -22,7 +22,7 @@ To use this script, follow the steps below:
 1. Open your terminal.
 2. Clone the repository to your local machine:
    ```
-   git clone https://github.com/TheCyberLocal/bloons-td-battles-hotkeys
+   git clone https://github.com/TheCyberLocal/bloons-td-battles-hotkeys.git
    ```
 3. Navigate to the repository's directory:
    ```
